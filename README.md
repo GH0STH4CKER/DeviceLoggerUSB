@@ -21,7 +21,7 @@
 
 ### 📁 Log Output
 
-By default, logs are saved in the same directory as the script with the filename (you can change the location if needed):
+By default, logs are saved in the same directory as the script with the filename :
 
 ```
 usb_activity_log.txt  
