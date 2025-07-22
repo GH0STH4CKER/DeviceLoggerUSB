@@ -20,7 +20,7 @@ A lightweight Python script that logs key system information each time it's run.
 
 ```
 
-## C:\Users\Dimuth  ASUSTeK COMPUTER INC.  Vivobook X1504VA  Windows 11  2025-07-22 14:28:09
+C:\Users\JohnDoe Dell Inc. Inspiron 5537 Windows 11 2025-07-22 14:08:56
 
 ```
 
