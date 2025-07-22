@@ -1,5 +1,4 @@
 
-```markdown
 # USB Device Info Logger
 
 A lightweight Python script that logs key system information each time it's run. Ideal for portable USB usage or logging purposes.
