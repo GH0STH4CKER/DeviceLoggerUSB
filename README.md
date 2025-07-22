@@ -1,6 +1,3 @@
-Yes, the format I gave you is **Markdown**—fully compatible with GitHub `README.md`. Below is the improved version with explicit pip install instructions (without `requirements.txt`) and more clarity for beginners:
-
----
 
 ```markdown
 # USB Device Info Logger
