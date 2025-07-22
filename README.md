@@ -100,6 +100,4 @@ This project is intended for **educational** and **authorized** usage only. Logg
 
 Free to use and modify for personal or academic use.
 
-```
-
 
